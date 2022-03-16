@@ -20,8 +20,8 @@ public class Phone {
 	p.phoneInfo(10001);
 	p.phoneInfo(9789153328L);
 	p.phneInfo("Coimbatore");
-	p.phneInfo("Coimbatore is my city");
-	
+	p.phneInfo("pattukkottai is my city");
+	p.phneInfo("Rohin the great");
 		
 	}
 	
